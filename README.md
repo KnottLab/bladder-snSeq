@@ -1,14 +1,11 @@
 # bladder_snSeq
 
-Computational analyses used in 
 
-[![DOI](https://zenodo.org/badge/323445511.svg)](https://zenodo.org/badge/latestdoi/323445511)
+Code release: [![DOI](https://zenodo.org/badge/323445511.svg)](https://zenodo.org/badge/latestdoi/323445511)
 
-```
-Gouin, K.H. & Ing, N. et al. "A CDH12 subpopultion within bladder tumors predicts diametric responses to chemotherapy and immunotherapy. 
-```
+Nature Communications paper: https://www.nature.com/articles/s41467-021-25103-7
 
-[full citation](#citation)
+[bibtex citation](#citation)
 
 
 ## Data
@@ -161,5 +158,14 @@ Listing of key analysis/plotting software used and notebooks/scripts containing 
 ## Citation
 
 ```
-paste bibtex citation here when available
+@article{gouin2021n,
+  title={An N-Cadherin 2 expressing epithelial cell subpopulation predicts response to surgery, chemotherapy and immunotherapy in bladder cancer},
+  author={Gouin, Kenneth H and Plummer, Jasmine T and Rosser, Charles J and Ben Cheikh, Bassem and Oh, Catherine and Chen, Stephanie S and Chan, Keith Syson and Furuya, Hideki and Tourtellotte, Warren G and Knott, Simon RV and others},
+  journal={Nature Communications},
+  volume={12},
+  number={1},
+  pages={1--14},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
 ```
